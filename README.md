@@ -7,7 +7,7 @@ A UNIX-like operating system shell program development project.
 I developed a UNIX-like operating system shell program and allowed users to interpret entered
 commands and run them using system calls.
 
-## Technologies Used
+## Skills
 
 * C programming language
 * UNIX system calls (fork, exec)
